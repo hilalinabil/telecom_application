@@ -34,5 +34,5 @@ build/
 .idea
 
 ### to not add the .properties file ###
-src/main/java/resources/application.properties
+**/application.properties
 
