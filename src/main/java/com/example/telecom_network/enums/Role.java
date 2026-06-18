@@ -1,4 +1,5 @@
 package com.example.telecom_network.enums;
 
-public enum TestEnum {
+public enum Role {
+     ADMIN, TECHNICIAN
 }
