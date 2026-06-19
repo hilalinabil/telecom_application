@@ -1,0 +1,7 @@
+package com.example.telecom_network.models.enums;
+
+public enum SourceType {
+    DATACENTER,
+    REPARTITEUR,
+    SPLITTER
+}
