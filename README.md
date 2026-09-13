@@ -1,4 +1,4 @@
-git # Fiber Optic Network Management System
+# Fiber Optic Network Management System
 
 ## Overview
 
